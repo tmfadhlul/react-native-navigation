@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1ddab6d85492293a9f479edf78f278ff/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/item_background.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/0a990e2c5ad8ac82f6d34224c6fd463a/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1ddab6d85492293a9f479edf78f278ff/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7dadd1158ac3a2384530b532f829c2bb/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/avd_show_password.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1ddab6d85492293a9f479edf78f278ff/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/design_password_eye.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1ddab6d85492293a9f479edf78f278ff/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

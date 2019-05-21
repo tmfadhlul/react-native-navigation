@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/layout-v21/notification_action.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7dadd1158ac3a2384530b532f829c2bb/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/0a990e2c5ad8ac82f6d34224c6fd463a/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/0a990e2c5ad8ac82f6d34224c6fd463a/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7dadd1158ac3a2384530b532f829c2bb/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7dadd1158ac3a2384530b532f829c2bb/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7dadd1158ac3a2384530b532f829c2bb/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

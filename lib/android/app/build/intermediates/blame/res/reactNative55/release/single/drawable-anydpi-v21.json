@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1ddab6d85492293a9f479edf78f278ff/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml",
+        "source": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/generated/res/pngs/reactNative55/release/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1ddab6d85492293a9f479edf78f278ff/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/mergeReactNative55ReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

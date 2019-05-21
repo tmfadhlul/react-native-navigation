@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/mergeReactNative55ReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7dadd1158ac3a2384530b532f829c2bb/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7dadd1158ac3a2384530b532f829c2bb/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

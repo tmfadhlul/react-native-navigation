@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_search_url_text.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_tint_edittext.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/design_error.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1ddab6d85492293a9f479edf78f278ff/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_tint_spinner.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_tint_default.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/design_tint_password_toggle.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1ddab6d85492293a9f479edf78f278ff/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/tmfadhlul/Development/mobile/formula-booklet-rn/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative55/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/tmfadhlul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9344ec9fa5ef4ef57155e580cb435086/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]
